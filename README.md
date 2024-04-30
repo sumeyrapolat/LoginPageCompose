@@ -20,14 +20,11 @@ Bu proje, aşağıdaki teknolojileri kullanır:
 
 Proje, Android Studio ile açılabilir. Android Studio'da "Open an Existing Project" seçeneğiyle projeyi açabilir ve ardından emülatörde veya fiziksel bir cihazda çalıştırabilirsiniz.
 
-## Ekran Görüntüleri
+## **Ekran Görüntüsü**
+<img src="app/src/main/res/drawable/loginpageimage.png" alt="Uygulamanın UI tasarımı" width="150" height="300">
 
-<img src="app/src/main/res/drawable/loginpageimage.pngg" alt="Uygulamanın UI tasarımı" width="150" height="300">
-
-
-## Ekran Videosu
-<img src="app/src/main/res/drawable/loginpagescreenrecord.mp4" alt="Uygulamanın UI tasarımı videosu indirmek için tıklayınız." width="150" height="300">
-
+## **Ekran Videosu**
+<img src="app/src/main/res/drawable/loginpagescreenrecord.mp4" alt="Uygulamanın UI tasarım videosu indirmek için tıklayınız." width="150" height="300">
 
 
 ## Katkıda Bulunma
