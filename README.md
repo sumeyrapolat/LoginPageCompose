@@ -22,12 +22,13 @@ Proje, Android Studio ile açılabilir. Android Studio'da "Open an Existing Proj
 
 ## Ekran Görüntüleri
 
-![Giriş Ekranı](![loginpageimage](https://github.com/sumeyrapolat/LoginPageCompose/assets/100802277/11a2759b-22a1-498d-baf1-55466312f3ad)
-)
+<img src="app/src/main/res/drawable/loginpageimage.pngg" alt="Uygulamanın UI tasarımı" width="150" height="300">
+
 
 ## Ekran Videosu
+<img src="app/src/main/res/drawable/loginpagescreenrecord.mp4" alt="Uygulamanın UI tasarımı videosu indirmek için tıklayınız." width="150" height="300">
 
-[![Ekran Videosu]()]()
+
 
 ## Katkıda Bulunma
 
